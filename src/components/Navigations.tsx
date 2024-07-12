@@ -1,4 +1,3 @@
-import React from "react";
 import { HiHome } from "react-icons/hi2";
 import { FaRankingStar } from "react-icons/fa6";
 import { IoPeople } from "react-icons/io5";
