@@ -6,7 +6,7 @@ import Navigations from './components/Navigations'
 function App() {
 
   return (
-   <div className='w-full h-screen bg'>
+   <div className='w-full min-h-screen bg'>
     <Header/>
     <Content/>
     <Navigations/>

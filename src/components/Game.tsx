@@ -18,7 +18,7 @@ const Game: React.FC = () => {
   const numbers = Array.from({ length: 20 }, (_, i) => i + 1);
 
   return (
-    <div className="bg-white p-6 w-[90%] sm:w-[380px] rounded-lg flex flex-col items-center shadow">
+    <div className="bg-white p-4 w-[90%] sm:w-[380px] rounded-lg flex flex-col items-center shadow">
      <div className="flex flex-col gap-3 pb-3">
      <h2 className="text-xl font-bold text-center text-gray-800">Play <span className="text-[#F1C017]">Game</span></h2>
      </div>
